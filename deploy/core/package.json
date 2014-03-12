@@ -1,0 +1,28 @@
+{
+  "name": "lighttable-runtime",
+  "version": "0.6.4",
+  "description": "Light Table runtime",
+  "main": "LightTable.html",
+  "dependencies": {
+    "bencode": "~0.4.3",
+    "harbor": "~0.2.0",
+    "jshint": "~2.0.1",
+    "marked": "~0.2.6",
+    "optimist": "~0.5.2",
+    "replace": "~0.2.7",
+    "request": "~2.14.0",
+    "shelljs": "~0.1.4",
+    "socket.io": "~0.9.13",
+    "source-map": "~0.1.30",
+    "tar": "~0.1.19",
+    "walkdir": "~0.0.5",
+    "wrench": "~1.5.6",
+    "watchr": "~2.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Granger <ibdknox@gmail.com>",
+  "license": "GPL-3.0"
+}
